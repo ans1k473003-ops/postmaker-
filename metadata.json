@@ -1,0 +1,7 @@
+{
+  "name": "PostMaker AI - Генератор постов для соцсетей",
+  "description": "Интеллектуальный генератор привлекательных постов для соцсетей с анализом фото, видео и текста на базе AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
